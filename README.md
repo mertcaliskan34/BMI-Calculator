@@ -6,7 +6,7 @@ This program calculates and evaluates the Body Mass Index (BMI) based on the use
 
 The BMI Calculation Program prompts the user to enter their weight and height, then calculates the BMI using the formula:
 
-\[ \text{BMI} = \frac{\text{weight}}{\text{height}^2} \]
+\[ \text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2} \]
 
 Based on the calculated BMI, the program provides an evaluation message indicating whether the user is underweight, normal weight, overweight, obese, or severely obese.
 
