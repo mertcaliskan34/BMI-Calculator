@@ -4,7 +4,7 @@ int main()
 {
     float weight, height, index;
     
-    printf("                            WELCOME TO THE BODY MASS INDEX CALCULATION PROGRAM\n");
+    printf("                                 WELCOME TO THE BODY MASS INDEX CALCULATION PROGRAM\n");
     
     printf("Enter your weight: "); scanf("%f", &weight);
     
