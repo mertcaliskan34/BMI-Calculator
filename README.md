@@ -1,14 +1,17 @@
 # Body Mass Index (BMI) Calculation and Evaluation Utility (C Implementation)
 
 ## Project Overview
+
 This application is a console-based utility, implemented in standard C, designed to accurately calculate the Body Mass Index (BMI) of an individual. It processes user-supplied anthropometric data (weight and height) and furnishes a categorized health status evaluation based on established international BMI classification standards.
 
 ## Technical Specifications
+
 *   **Language:** C (Standard C Library)
 *   **Source File:** `main.c` (or equivalent containing the provided code)
 *   **Dependencies:** Standard C Compiler (e.g., GCC, Clang)
 
 ## Calculation Methodology
+
 The program computes the Body Mass Index using the standard formula:
 
 $$
@@ -36,6 +39,7 @@ The user is prompted to input their weight in **kilograms (kg)** and their heigh
 4.  **Output:** The program will display the calculated BMI value and the corresponding health evaluation.
 
 ## BMI Classification Matrix
+
 The evaluation logic is based on the following standard conditional ranges:
 
 | BMI Range | Evaluation Category | Recommendation |
